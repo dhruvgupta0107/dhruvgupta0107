@@ -32,4 +32,4 @@ languages = ["Python", "JavaScript", "C++", "SQL"]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvgupta0107-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhruvgupta0107)
 [![Email](https://img.shields.io/badge/Email-dhruvgupta010703%40gmail.com-red?style=flat&logo=gmail)](mailto:dhruvgupta010703@gmail.com)
 
-*250+ LeetCode · Max rating 1573 · Always building something*
+*300+ LeetCode · Max rating 1573 · Always building something*
